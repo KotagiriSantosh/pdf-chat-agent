@@ -1,0 +1,7 @@
+Purpose: Pin Python dependencies
+
+Contents:
+PyPDF2
+scikit-learn
+transformers
+torch
